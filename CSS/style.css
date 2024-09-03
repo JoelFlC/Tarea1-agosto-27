@@ -1,0 +1,77 @@
+*
+{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html, body{
+    height: 100%;
+}
+
+.d1 {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 72, 64);
+    width: 100%;
+    height: 100%;
+}
+.d2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(16, 87, 78);
+    width: 92%;
+    height: 92%;
+}
+.d3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(48, 132, 122);
+    width: 84%;
+    height: 84%;
+}
+.d4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(79, 158, 149);
+    width: 76%;
+    height: 76%;
+}
+.d5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(116, 186, 178);
+    width: 68%;
+    height: 68%;
+}
+.d6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(136, 212, 203);
+    width: 60%;
+    height: 60%;
+}
+.d7 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(190, 255, 247);
+    width: 52%;
+    height: 52%;
+}
+.t {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 17px;
+}
+
+
